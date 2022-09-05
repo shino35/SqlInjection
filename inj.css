@@ -1,0 +1,90 @@
+.inp{
+    padding: 16px;
+			margin: 8px;
+			border: 1px solid #f1f1f1;
+			letter-spacing: 1px;
+			border-radius: 3px;
+			width: 240px;
+
+}
+.submit{
+    
+			width: 274px;
+			border-radius: 3px;
+			border: 1px solid #4285f4;
+			background-color: #4285f4;
+			padding: 16px;
+			color: white;
+			font-weight: 600;
+			cursor: pointer;
+
+}
+.wrapper{
+    width: 600px;
+    margin: 0 auto;
+	padding-top: 4%;
+}
+.formdiv{
+    padding-top: 1%;
+    /* background-color: skyblue; */
+    text-align: center;
+    
+}
+body{
+	background: linear-gradient(rgb(197, 194, 194),skyblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+	padding-bottom: 5px;
+	padding-top: 5%;
+	text-align: center;
+}
+button{
+	size: 40px;
+}
+.tablediv{
+	padding-top: 9%;
+	
+	align-items: center;
+}
+.table1{
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+	
+	border-radius: 10px;
+}
+
+td{
+	padding: 0%;
+	height: 60px;
+	text-align: center;
+	
+}
+button{
+	width: 200px;;
+	height: 100px;
+	padding: 5%;
+}
+.cu{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#updsub{
+   
+    padding-top: 2%;
+	
+}
+.updateh2{
+	height: 30%;
+}
+#addnews{
+	align-items: flex-end;
+}
+th{
+	text-align: center;
+}
